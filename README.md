@@ -1,0 +1,4 @@
+GCA
+===
+
+General Cellular Automata
